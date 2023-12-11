@@ -1,0 +1,14 @@
+equipe               joueur                   tournois                     match
+
+
+id       	     id		              id                           id
+nom_equipe           nom                      date_tournois             date_match
+pays_d'origine       prenom		      id_match                  id_equipe1 (Clé etrangere de la table equipe en refernce avec idmatch)
+idmatch		     age                                                id_equipe2 (Clé etrangere de la table equipe en refernce avec idmatch)
+                     pseudo
+                     date_de_naissance                                       
+	             position
+
+
+
+24 equipes
